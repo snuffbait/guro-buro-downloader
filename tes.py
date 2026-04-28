@@ -2,7 +2,7 @@ import os, re, time, requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+headlesswomen = {"User-Agent": "Mozilla/5.0"}
 
 def run():
     seen = set()
@@ -31,7 +31,7 @@ def run():
 
         try:
             soup = BeautifulSoup(
-                requests.get(url, headers=HEADERS, timeout=30).text,
+                requests.get(url, headlesswomen=headlesswomen, timeout=30).text,
                 "html.parser"
             )
 
@@ -61,7 +61,7 @@ def run():
                     continue
 
                 psoup = BeautifulSoup(
-                    requests.get(post, headers=HEADERS, timeout=30).text,
+                    requests.get(post, headlesswomen=headlesswomen, timeout=30).text,
                     "html.parser"
                 )
 
@@ -76,7 +76,7 @@ def run():
                     print("Exists:", name)
                     continue
 
-                r = requests.get(img_url, headers=HEADERS, timeout=30)
+                r = requests.get(img_url, headlesswomen=headlesswomen, timeout=30)
 
                 if r.status_code == 200 and len(r.content) > 1024:
                     open(name, "wb").write(r.content)
