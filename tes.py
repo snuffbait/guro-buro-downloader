@@ -46,7 +46,7 @@ def run():
     "animated","gif","comic","novel","visual","original","tagme","duplicate","text",
     "translation_request","hard_translated","posts","lowres","headphones","speaker",
     "chair","glasses","storage_room","toilet","grinder","waitress","bandage",
-    "sparks","glowing","manly","grimdark","hair_over_one_eye","dog_tags","t-shirt",
+    "sparks","glowing","grimdark","hair_over_one_eye","dog_tags","t-shirt",
     "bent_over","cross_stereopair","funnybizness","skyrim","love","live","cake",
     "crotchless_clothes","cut_off_breasts","breastless_clothes","ass_up","breast_busting",
     "in_the_face","off_shoulder","skirt_lift","bandaid","toes","breastless_clothes",
