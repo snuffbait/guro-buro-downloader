@@ -14,7 +14,7 @@ def run():
     "school_uniform","boots","high_heels","pantsu","latex",
     "bodysuit","armor","torn_clothes","bloody_clothes",
     "nude","nudity","shoes","barefoot","off_shoulder","skirt_lift",
-    "bandaid","toes","breastless_clothes","crotchless_clothes","cut_off_breasts",
+    "bandaid","toes","breastless_clothes","crotchless_clothes",
     "ass_up","breast_busting","breastless_clothes","areolae","nipples",
     "black_hair","brown_hair","blonde_hair","blonde",
     "red_hair","purple_hair","blue_hair","green_hair",
@@ -41,30 +41,29 @@ def run():
     "symphony_of_destruction","defeated",
     "bondage","tied","blindfold","gag",
     "angel","wings","horns","elf","pointy_ears","cat_ears","animal_ears","samurai",
-    "child","age_difference","young_girl","schoolgirl","bride","wedding","tiara",
+    "age_difference","young_girl","schoolgirl","bride","wedding","tiara",
     "princess_luna","princess_celestia","rarity","jack-o'-lantern","hell_baron",
     "animated","gif","comic","novel","visual","original","tagme","duplicate","text",
-    "translation_request","hard_translated","posts","lowres","headphones","speaker",
+    "translation_request","hard_translated","posts","headphones","speaker",
     "chair","glasses","storage_room","toilet","grinder","waitress","bandage",
     "sparks","glowing","grimdark","hair_over_one_eye","dog_tags","t-shirt",
     "bent_over","cross_stereopair","funnybizness","skyrim","love","live","cake",
-    "crotchless_clothes","cut_off_breasts","breastless_clothes","ass_up","breast_busting",
+    "crotchless_clothes","breastless_clothes","ass_up","breast_busting",
     "in_the_face","off_shoulder","skirt_lift","bandaid","toes","breastless_clothes",
-    "crotchless_clothes","cut_off_breasts","ass_up","breast_busting","breastless_clothes",
-    "crotchless_clothes","cut_off_breasts","ass_up","breast_busting","breastless_clothes",
+    "crotchless_clothes","ass_up","breast_busting","breastless_clothes",
+    "crotchless_clothes","ass_up","breast_busting","breastless_clothes",
     "rapunzel","nepgear","asuka","hatsune","miku","vocaloid","touhou","kaguya_houraisan",
-    "yakumo_yukari","samus_aran","zero_suit","metroid","nintendo","doom_(game)",
-    "skullgirls","yamato_(kantai_collection)","my_little_pony","aosora_(mizore)",
-    "eric806359","bcguro","neon_geniesis_evangelioj","overlord_(maruyama)","tenken_(gotannda)",
-    "nameo_(judgemasterkou)","xiaoguimist","sachiko_(artist)","keisuke","keisuke_(togainu_no_chi)",
-    "mayonnaise_(ringo_gakuen)","conmanwolf","mugon","kakuriyo",
+    "yakumo_yukari","samus_aran","zerosuit","metroid","nintendo","doom(game)",
+    "skullgirls","yamato_(kantai_collection)","my_littlepony","aosora(mizore)",
+    "eric806359","bcguro","neon_geniesisevangelioj","overlord(maruyama)","tenken(gotannda)",
+    "nameo(judgemasterkou)","xiaoguimist","sachiko(artist)","keisuke","keisuke(togainu_nochi)",
+    "mayonnaise(ringo_gakuen)","conmanwolf","mugon","kakuriyo",
     "lasers","machine","swimsuit","oil","water","fire","bow","ascot","hat",
-    "ss","duplicate","hard_translated","posts","tagme"
+    "ss","duplicate","hard_translated","posts","tagme","penis"
 }
-
     bad = {
         "boy","boys","1boy","2boys","3boys",
-        "male","man","men","guy","guys","penis"
+        "male","man","men","guy","guys","child","lowres"
     }
 
     page = 0
