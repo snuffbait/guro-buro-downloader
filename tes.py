@@ -21,7 +21,7 @@ def run():
     "blue_eyes","green_eyes","brown_eyes","glowing_eyes","missing_eye",
     "long_hair","short_hair","ponytail","twintails","hair_over_one_eye",
     "open_mouth","closed_eyes","rolling_eyes","empty_eyes","eyes_rolled_back",
-    "looking_at_viewer","looking_away","looking_away","tongue","teeth","eyebrows",
+    "looking_at_viewer","looking_away","tongue","teeth","eyebrows",
     "licking_lips","fear_face","scared","wince","name_tag",
     "pussy","vagina","nipples","areolae","shaved_pussy",
     "sex","doggystyle","vaginal","cum","cum_in_pussy",
