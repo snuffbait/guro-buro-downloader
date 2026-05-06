@@ -41,7 +41,7 @@ def run():
     "symphony_of_destruction","defeated",
     "bondage","tied","blindfold","gag",
     "angel","wings","horns","elf","pointy_ears","cat_ears","animal_ears","samurai",
-    "age_difference","young_girl","schoolgirl","bride","wedding","tiara",
+    "age_difference","schoolgirl","bride","wedding","tiara",
     "princess_luna","princess_celestia","rarity","jack-o'-lantern","hell_baron",
     "animated","gif","comic","novel","visual","original","tagme","duplicate","text",
     "translation_request","hard_translated","posts","headphones","speaker",
